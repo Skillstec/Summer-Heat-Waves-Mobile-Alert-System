@@ -1,0 +1,10 @@
+Required libraries:
+1.Pandas
+2.Numpy.
+3.Matplotlib.
+4.Tensorflow 
+5.Flask requests twilio.
+
+Dataset required:
+1.Weather_data.csv
+2.temperature_data.
